@@ -1,0 +1,11 @@
+#banner {
+    background-image: url("../images/newBan2.jpg");
+}
+
+#slogan {
+    color:orange;
+    margin-top: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    /* font-weight: 400; */
+}
