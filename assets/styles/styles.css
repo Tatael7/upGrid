@@ -4,7 +4,7 @@
 
 #slogan {
     color:orange;
-    margin-top: 600px;
+    margin-top: 580px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     /* font-weight: 400; */
@@ -17,4 +17,14 @@
 
 #infoStuff {
     margin-top: 10px solid red;
+}
+
+#revBan {
+    text-align: center;
+    font-size: 50px;
+}
+
+#razones1 {
+    text-align: center;
+    font: 50px arial;
 }
